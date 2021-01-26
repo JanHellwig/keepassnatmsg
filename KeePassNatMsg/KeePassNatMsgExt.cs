@@ -48,8 +48,8 @@ namespace KeePassNatMsg
         internal static Helper CryptoHelper;
 
         private const int DefaultNotificationTime = 5000;
-        public const string KeePassNatMsgSettings = "KeePassNatMsg Settings";
-        public const string KeePassNatMsgDatabaseKey = "KeePassNatMsgDbKey_";
+        public const string KeePassNatMsgSettings = "KeePassXC-Browser Settings";
+        public const string KeePassNatMsgDatabaseKey = "KPXC_BROWSER_";
         public const string KeePassNatMsgNameLegacy = "KeePassHttp Settings";
         public const string KeePassNatMsgGroupName = "KeePassNatMsg Passwords";
         public const string KeePassNatMsgLegacyMigrated = "KeePassNatMsg_Migrated";
